@@ -1,0 +1,1 @@
+from .preprocess import tag_to_ix,get_tap_list,get_char_list
